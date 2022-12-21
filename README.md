@@ -6,18 +6,18 @@ Tips para la preparación del examen de certificación
 
 Tener la siguiente documentación presente mientras se hace el examen para localizar algo rápidamente en caso de duda.
 
-- Generic: Post installation configuration
+- **Generic**: Post installation configuration
     - Instrucciones para la configuración una vez que está instalado Openshift. 
     - Quitar usuario kubeadmin
-- Secrets: Nodes > Working with Pods > Understanding Secrets
-- Identity Provider: Authentication and Authorization > Understanding Identity Provider
-- RBAC: Authentication and Authorization > Using RBAC
-- Users and Groups: Authentication and Authorization > Understanding Authentication
-- SCC: Authentication and Authorization
-- Routes: Networking > Configuring Routes
-- Network Policy: Networking > Network Policy
-- Limit Range: Nodes > Working with Clusters > Setting Limit Ranges
-- Quota: Applications > Quotas
+- **Secrets**: Nodes > Working with Pods > Understanding Secrets
+- **Identity Provider**: Authentication and Authorization > Understanding Identity Provider
+- **RBAC**: Authentication and Authorization > Using RBAC
+- **Users and Groups**: Authentication and Authorization > Understanding Authentication
+- **SCC**: Authentication and Authorization
+- **Routes**: Networking > Configuring Routes
+- **Network Policy**: Networking > Network Policy
+- **Limit Range**: Nodes > Working with Clusters > Setting Limit Ranges
+- **Quota**: Applications > Quotas
 
 ## Prácticas:
 
